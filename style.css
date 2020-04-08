@@ -6,7 +6,7 @@ header {
   background-image:  url("https://www.mafab.hu/static/2020t/23/10/14411_1579858136.532.jpg");
   background-position: center;
   background-size: cover;
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Abril Fatface';
   line-height: 40px;
   color:white;
 }
@@ -45,7 +45,7 @@ blockquote {
   padding-left: 15%;
   padding-bottom: 5%;
   align-content: center;
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Abril Fatface';
   font-size: 40px;
   color: white;
   background: grey;
@@ -56,7 +56,7 @@ blockquote {
 }
 
 p {
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
   line-height: 1.6;
   display: block;
@@ -65,7 +65,7 @@ p {
 }
 
 ul {
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   line-height: 1.6;
   margin-bottom: 0px;
   font-size: 20px;
@@ -73,13 +73,13 @@ ul {
 }
 
 h4   {
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 22px;
   margin: 0;
   color:white;
 }
 h5 {
-  font-family: 'itc-serif-gothic-std', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 15px;
   margin: 0;
   color:white
