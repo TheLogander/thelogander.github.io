@@ -106,8 +106,6 @@ b {
 body {
   background-image: url(https://images.alphacoders.com/107/thumb-1920-107763.jpg);
   color:white;
-  background-repeat:no-repeat;
-  width:100%;
-  height:100%;
-
+background-attachment:fixed;
+background-size: 100% 100%;
 }
